@@ -1,0 +1,6 @@
+{
+  "name": "Bloom — AI Floral Design",
+  "description": "Full-screen hero landing page for Bloom, an AI-powered botanical and floral design platform with liquid glass morphism aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
